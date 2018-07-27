@@ -1,0 +1,123 @@
+
+/* Class = "UITextField"; placeholder = "Child Last Name"; ObjectID = "2Lb-OV-Hgh"; */
+"2Lb-OV-Hgh.placeholder" = "Child Last Name";
+
+/* Class = "UITextView"; text = "Welcome to the A.C.T. Kids mobile access portal.  From this screen, you can view your profile, find an activity, and log your participation. Please select an option below."; ObjectID = "3p7-La-Z1C"; */
+"3p7-La-Z1C.text" = "Welcome to the A.C.T. Kids mobile access portal.  From this screen, you can view your profile, find an activity, and log your participation. Please select an option below.";
+
+/* Class = "UILabel"; text = "Parent Name"; ObjectID = "5kU-dH-dbc"; */
+"5kU-dH-dbc.text" = "Parent Name";
+
+/* Class = "UINavigationItem"; title = "Request an Account"; ObjectID = "8It-Dh-ptm"; */
+"8It-Dh-ptm.title" = "Request an Account";
+
+/* Class = "UIButton"; normalTitle = "Presets"; ObjectID = "98X-0U-m2y"; */
+"98X-0U-m2y.normalTitle" = "Presets";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "9Zy-WK-ngf"; */
+"9Zy-WK-ngf.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Child Birthdate"; ObjectID = "B6b-bO-7Mh"; */
+"B6b-bO-7Mh.text" = "Child Birthdate";
+
+/* Class = "UIViewController"; title = "Sign In View Controller"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Sign In View Controller";
+
+/* Class = "UITextField"; placeholder = "Child Date of Birth"; ObjectID = "Cvf-9O-N8k"; */
+"Cvf-9O-N8k.placeholder" = "Child Date of Birth";
+
+/* Class = "UIViewController"; title = "Home Screen View Controller"; ObjectID = "DG7-De-HfH"; */
+"DG7-De-HfH.title" = "Home Screen View Controller";
+
+/* Class = "UILabel"; text = "Child Last Name"; ObjectID = "DHQ-6L-RlS"; */
+"DHQ-6L-RlS.text" = "Child Last Name";
+
+/* Class = "UIButton"; normalTitle = "Find an Activity"; ObjectID = "GRC-ku-hUS"; */
+"GRC-ku-hUS.normalTitle" = "Find an Activity";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "Gqd-ec-jmH"; */
+"Gqd-ec-jmH.text" = "Username";
+
+/* Class = "UINavigationItem"; title = "Find an Activity"; ObjectID = "KnG-DR-wPF"; */
+"KnG-DR-wPF.title" = "Find an Activity";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "MOA-R1-Yxd"; */
+"MOA-R1-Yxd.normalTitle" = "Sign In";
+
+/* Class = "UINavigationController"; title = "Navigation Controller"; ObjectID = "NHT-qC-dzu"; */
+"NHT-qC-dzu.title" = "Navigation Controller";
+
+/* Class = "UIBarButtonItem"; title = "Sign Out"; ObjectID = "Ptu-la-WtT"; */
+"Ptu-la-WtT.title" = "Sign Out";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "SCl-Rw-2or"; */
+"SCl-Rw-2or.placeholder" = "Username";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "TJC-sz-CFL"; */
+"TJC-sz-CFL.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "Umg-XI-QhF"; */
+"Umg-XI-QhF.normalTitle" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Log an Activity"; ObjectID = "YT6-GY-504"; */
+"YT6-GY-504.normalTitle" = "Log an Activity";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "ZQj-aa-O9S"; */
+"ZQj-aa-O9S.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "My Profile"; ObjectID = "adD-iK-Tv2"; */
+"adD-iK-Tv2.title" = "My Profile";
+
+/* Class = "UITextField"; placeholder = "Child First Name"; ObjectID = "bAP-YR-bPc"; */
+"bAP-YR-bPc.placeholder" = "Child First Name";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "cXN-Uh-9EC"; */
+"cXN-Uh-9EC.title" = "Home";
+
+/* Class = "UIViewController"; title = "Register View Controller"; ObjectID = "ci6-Qh-71R"; */
+"ci6-Qh-71R.title" = "Register View Controller";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fDe-uq-VEv"; */
+"fDe-uq-VEv.placeholder" = "Password";
+
+/* Class = "UINavigationItem"; title = "Scanner"; ObjectID = "fy9-Za-WgW"; */
+"fy9-Za-WgW.title" = "Scanner";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "g1r-C0-rRg"; */
+"g1r-C0-rRg.normalTitle" = "Send Request";
+
+/* Class = "UIButton"; normalTitle = "Request Access"; ObjectID = "ib2-cO-W21"; */
+"ib2-cO-W21.normalTitle" = "Request Access";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "l3t-8U-6YW"; */
+"l3t-8U-6YW.title" = "Home";
+
+/* Class = "UILabel"; text = "E-Mail Address"; ObjectID = "nWa-bc-Ulq"; */
+"nWa-bc-Ulq.text" = "E-Mail Address";
+
+/* Class = "UITextField"; placeholder = "Parent Name (First, Last)"; ObjectID = "pkO-HA-bd5"; */
+"pkO-HA-bd5.placeholder" = "Parent Name (First, Last)";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "qDx-n1-vcs"; */
+"qDx-n1-vcs.title" = "Home";
+
+/* Class = "UIViewController"; title = "CameraViewController"; ObjectID = "qrq-Sd-x3Y"; */
+"qrq-Sd-x3Y.title" = "CameraViewController";
+
+/* Class = "UILabel"; text = "Child First Name"; ObjectID = "rJ2-cA-wrh"; */
+"rJ2-cA-wrh.text" = "Child First Name";
+
+/* Class = "UILabel"; text = "Camera Unavailable"; ObjectID = "rya-1g-14G"; */
+"rya-1g-14G.text" = "Camera Unavailable";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "sx9-Ur-iF9"; */
+"sx9-Ur-iF9.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "uPs-ts-Lge"; */
+"uPs-ts-Lge.normalTitle" = "Camera";
+
+/* Class = "UIButton"; normalTitle = "Metadata"; ObjectID = "yY6-8n-MXt"; */
+"yY6-8n-MXt.normalTitle" = "Metadata";
+
+/* Class = "UIButton"; normalTitle = "View My Profile"; ObjectID = "ygt-gA-IVG"; */
+"ygt-gA-IVG.normalTitle" = "View My Profile";
