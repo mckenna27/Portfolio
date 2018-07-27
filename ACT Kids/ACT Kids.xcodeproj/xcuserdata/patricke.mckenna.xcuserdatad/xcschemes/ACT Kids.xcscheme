@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6769DABE20541F7D005B7D08"
+               BuildableName = "ACT Kids.app"
+               BlueprintName = "ACT Kids"
+               ReferencedContainer = "container:ACT Kids.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6769DABE20541F7D005B7D08"
+            BuildableName = "ACT Kids.app"
+            BlueprintName = "ACT Kids"
+            ReferencedContainer = "container:ACT Kids.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
